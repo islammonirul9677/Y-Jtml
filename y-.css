@@ -1,0 +1,30 @@
+.css1{
+    background-color: #d9abab;
+    width: 700px;
+    margin: 70ox 0 0 50px;
+
+    display: grid;
+    grid-template-columns: 150px 200px auto;
+    grid-template-rows: 150px 200px 150px;
+
+    grid-gap: 20px;
+}
+.items1{
+    background-color: orangered;
+    grid-row-start: 2;
+}
+.items2{
+    background-color: yellowgreen;
+}
+.items3{
+    background-color: slateblue;
+}
+.items4{
+    background-color: hotpink;
+}
+.items5{
+    background-color: royalblue;
+}
+.items6{
+    background-color: goldenrod;
+}
